@@ -1,0 +1,33 @@
+{
+  "node": "SUNDONEcindy/explore",
+  "slot": "19",
+  "probe_rounds": 1,
+  "timestamp": "2026-09-11T15:54:52Z",
+  "results": [
+    {"pid":"1045285536976","round":1,"http_code":302,"elapsed_s":0.497963,"redirects":0,"up":true}
+    ,
+    {"pid":"1051443785486","round":1,"http_code":302,"elapsed_s":0.173217,"redirects":0,"up":true}
+    ,
+    {"pid":"1055272192360","round":1,"http_code":302,"elapsed_s":0.163359,"redirects":0,"up":true}
+    ,
+    {"pid":"1056343383874","round":1,"http_code":302,"elapsed_s":0.178931,"redirects":0,"up":true}
+    ,
+    {"pid":"1057028184538","round":1,"http_code":302,"elapsed_s":0.163714,"redirects":0,"up":true}
+    ,
+    {"pid":"1059036808911","round":1,"http_code":302,"elapsed_s":0.163203,"redirects":0,"up":true}
+    ,
+    {"pid":"1059798887756","round":1,"http_code":302,"elapsed_s":0.169910,"redirects":0,"up":true}
+    ,
+    {"pid":"1060214802605","round":1,"http_code":302,"elapsed_s":0.182890,"redirects":0,"up":true}
+    ,
+    {"pid":"1060285671386","round":1,"http_code":302,"elapsed_s":0.163546,"redirects":0,"up":true}
+    ,
+    {"pid":"1061217153671","round":1,"http_code":302,"elapsed_s":0.246428,"redirects":0,"up":true}
+    ,
+    {"pid":"1061810629923","round":1,"http_code":302,"elapsed_s":0.183073,"redirects":0,"up":true}
+    ,
+    {"pid":"1067381684786","round":1,"http_code":302,"elapsed_s":0.164860,"redirects":0,"up":true}
+    ,
+    {"pid":"1071695794375","round":1,"http_code":302,"elapsed_s":0.162572,"redirects":0,"up":true}
+  ]
+}
